@@ -1,7 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/97626055-a2f8-453b-9d67-c749f99ff0b9" width="300">
-<br><br>
-<!--h1 without bottom border-->
 
 <div id="user-content-toc">
   <ul align="left">
@@ -14,7 +10,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width = 300px></picture>
 
 :school:Desarrollador `Junior` <br>
 •🏃‍♂️ Meta: Desarrollador `Full Stack` & Cloud <br>
