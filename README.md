@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/97626055-a2f8-453b-9d67-c749f99ff0b9" width="300">
+<br><br>
 <!--h1 without bottom border-->
 
 <div id="user-content-toc">
@@ -16,12 +16,12 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school:Desarrollador `Junior` <br>
--🏃‍♂️ Meta: Desarrollador `Full Stack` & Cloud <br>
--⚡ Dato curioso: Programo mejor con música `lofi` <br>
--📖 Estudiando `Backend` <br>
--👨‍💻 Aprendiendo PostgreSQL y `Nestjs` <br>
--🎮 Pasatiempos: Gaming & `Comer`
+:school:Desarrollador `Junior` <br>
+•🏃‍♂️ Meta: Desarrollador `Full Stack` & Cloud <br>
+•⚡ Dato curioso: Programo mejor con música `lofi` <br>
+•📖 Estudiando `Backend` <br>
+•👨‍💻 Aprendiendo PostgreSQL y `Nestjs` <br>
+•🎮 Pasatiempos: Gaming & `Comer`
 
 <br>
 
