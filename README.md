@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="center" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width = 500px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width = 500px></picture>
 
 :school:Desarrollador `Junior` <br>
 •🏃‍♂️ Meta: Desarrollador `Full Stack` & Cloud <br>
