@@ -1,16 +1,116 @@
-# 💫 Sobre mi:
-¡Hola! 👋 Soy Wildeiner Meza<br><br>Soy un apasionado desarrollador junior de 16 años, ubicado en Valledupar, Colombia. 🌎 Desde temprana edad descubrí mi amor por la tecnología y la programación, y desde entonces me he dedicado a aprender y crear soluciones que marquen la diferencia.<br><br>🎯 Mi objetivo: No solo aprender, sino sobresalir y llevar mis habilidades al siguiente nivel, colaborando en proyectos innovadores que tengan un impacto real.<br><br>💻 Tecnologías con las que trabajo:<br><br>Frontend: HTML, CSS, Bootstrap, Tailwind, React, Astro<br>Backend: PHP, MySql<br>Otros: JavaScript, jQuery, Firebase, NextJs<br>🔧 Actualmente, estoy perfeccionando mis habilidades y desarrollando proyectos para mi portafolio, con especial interés en soluciones que mejoren la vida de las personas, como aplicaciones para ancianos y herramientas accesibles.<br><br>🚀 ¿Por qué elegirme?<br><br>Creatividad y dedicación en cada proyecto.<br>Habilidad para aprender rápidamente y adaptarme a nuevas tecnologías.<br>Ganas inmensas de superar expectativas y aportar valor real.<br>📩 Si estás buscando un programador con entusiasmo, motivación y compromiso, ¡hablemos! Estoy listo para colaborar en proyectos desafiantes y crecer junto a tu equipo.<br><br>👉 ¡Explora mi portafolio y descubre cómo puedo contribuir a tus ideas!<br><br>Conectemos y creemos algo increíble juntos. 🚀
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hola, soy Wildeiner 🤙</summary>
+  </ul>
+</div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xlxwill) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wildeiner-meza-984507339) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WillJm__) 
+<!--About Me-->
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=willljm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=willljm&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=willljm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
+- :school:Desarrollador `Junior` 
+🏃‍♂️ Meta: Desarrollador Full Stack & Cloud
+⚡ Dato curioso: Programo mejor con música lofi
+📖 Estudiando Backend
+👨‍💻 Aprendiendo PostgreSQL y Nestjs
+🎮 Pasatiempos: Gaming & Comer
+
+<br>
+
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
+
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" src="https://miro.medium.com/max/1400/1*UBZYjKJigowCJOK4SaHicw.jpeg"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+#
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+
+<br/>
+
+#
+
+
+<!--- stats & Trophy (start) -->
+
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+</td>
+
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ElioChiu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+<!--- trophy (start) -->
+</p>        
+<!--- stats (end) -->
+
+<br>
+
+<!--profile visit count-->
+
+<div align="center">
+
+
+[![](https://visitcount.itsvg.in/api?id=ElioChiu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-----------
+
+Credit: [ElioChiu](https://github.com/ElioChiu)
+
+Last Edited on: 10/7/2023
 
 
 
