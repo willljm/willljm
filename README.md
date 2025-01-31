@@ -16,11 +16,11 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school:Desarrollador `Junior` 
-🏃‍♂️ Meta: Desarrollador Full Stack & Cloud
-⚡ Dato curioso: Programo mejor con música lofi
-📖 Estudiando Backend
-👨‍💻 Aprendiendo PostgreSQL y Nestjs
+- :school:Desarrollador `Junior` <br>
+🏃‍♂️ Meta: Desarrollador Full Stack & Cloud <br>
+⚡ Dato curioso: Programo mejor con música lofi <br>
+📖 Estudiando Backend <br>
+👨‍💻 Aprendiendo PostgreSQL y Nestjs <br>
 🎮 Pasatiempos: Gaming & Comer
 
 <br>
