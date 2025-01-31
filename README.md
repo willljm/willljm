@@ -14,8 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
 
-
-:school:Desarrollador `Junior` <br>
+•🖥️ Desarrollador `Junior` <br>
 •🏃‍♂️ Meta: Desarrollador `Full Stack` & Cloud <br>
 •⚡ Dato curioso: Programo mejor con música `lofi` <br>
 •📖 Estudiando `Backend` <br>
