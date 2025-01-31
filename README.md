@@ -1,13 +1,14 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hola, soy Wildeiner 🤙</summary>
+    <summary><h1 style="display: inline-block">Hola, Soy Wildeiner 🤙</summary>
   </ul>
+      <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width = 400px></picture>
+
 </div>
 
 
 <!--About Me-->
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width = 400px></picture>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
